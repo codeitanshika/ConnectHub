@@ -127,20 +127,6 @@ http://localhost:5000
 
 ---
 
-## 📸 Screenshots
-
-Add your application screenshots here.
-
-### Login Page
-
-![Login Screenshot](screenshots/login.png)
-
-### Chat Room
-
-![Chat Screenshot](screenshots/chat.png)
-
----
-
 ## 🌟 Future Enhancements
 
 * User authentication
